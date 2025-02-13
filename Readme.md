@@ -1,1 +1,1 @@
-Este é o meu primeiro arquivo no GitHub, teste de clone
+Este é o meu primeiro arquivo no GitHub
